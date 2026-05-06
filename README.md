@@ -22,7 +22,3 @@ Python backend engineer. Data platforms by day, DevOps tooling on the side, ment
 ### 🎓 Mentoring
 
 I review code and run sessions for two Yandex Praktikum tracks: **Middle Python** (2022–23) and **DevSecOps** (current).
-
----
-
-[![ovsds's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovsds&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
